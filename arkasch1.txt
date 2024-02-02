@@ -1,0 +1,5 @@
+sch
+~ 5
+  * cam
+~ no dis
+ *
